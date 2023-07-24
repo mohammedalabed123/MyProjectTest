@@ -1,4 +1,4 @@
 # MyProjectTest
-jast test repo in my pc
-create repo html css project 
-<h1 >heloo</h1>
+my first project 
+web page front end to used html css 
+
